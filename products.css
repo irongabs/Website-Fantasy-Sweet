@@ -111,3 +111,12 @@ footer {
     max-width: 0px auto;
     display: flex;
 }
+
+.ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+    color: #881692;
+}
